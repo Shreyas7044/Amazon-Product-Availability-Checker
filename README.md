@@ -50,4 +50,4 @@ python main.py
 ---
 
 ## 🖼 Screenshot
-![Application Screenshot]()
+![Application Screenshot](Amazon-Product-Availability-Checker/screenshot.png)
